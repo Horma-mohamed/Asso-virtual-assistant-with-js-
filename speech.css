@@ -1,0 +1,20 @@
+.my .square {
+    position: absolute;
+     top : 3px;
+     right:-4px; 
+     background-color: #1e293b;
+     width: 16px;
+      height: 16px;
+       border-radius: 2px;
+       transform: rotate(45deg);
+}
+.asso .square {
+    position: absolute;
+     top : 3px;
+     left:-4px; 
+     background-color: #f1f5f9;
+     width: 16px;
+      height: 16px;
+       border-radius: 2px;
+       transform: rotate(45deg);
+}
